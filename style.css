@@ -1,0 +1,79 @@
+#conteneur {
+	position: absolute;
+	width: 100%;
+	margin: auto;
+	background-image: url('img/fond.jpg');
+	background-size: 100% 340px;
+    background-repeat: no-repeat;
+    height: 340px;
+    border: 5px black solid;
+    overflow: hidden;
+    bottom: 33px;
+    
+
+}
+
+#mario {
+	position: absolute;
+	margin-top: -370px;
+	background: no-repeat;
+}
+
+#mario, img {
+	width: 50px;
+	bottom: 70px;
+}
+
+#bowser {
+	margin-left: 1000px;
+	margin-top: -100px;
+}
+
+#goomba {
+	position: absolute;
+	/*margin-left: 1800px;*/
+}
+
+#goomba, img {
+	width: 50px;
+	bottom: 70px;
+}
+
+#tube {
+	position: absolute;
+}
+
+#tube, img {
+	width: 50px;
+	bottom: 70px;
+	margin-left: 500px;
+}
+
+#tube2 {
+	position: absolute;
+}
+
+#tube2, img {
+	width: 50px;
+	bottom: 70px;
+	margin-left: 300px;
+}
+
+#bowser {
+	position: absolute;
+}
+
+#bowser, img {
+	width: 50px;
+	bottom: 70px;
+}
+
+#carre {
+	position: absolute;
+}
+
+#carre, img {
+	width: 50px;
+	bottom: 200px;
+}
+
